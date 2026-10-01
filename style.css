@@ -8,3 +8,21 @@ margin: 0;
     height:700px;
     display: block;
 }
+
+.container {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.container h1 {
+    margin: 0;
+    margin-right: auto;
+}
+   
+.pesquisa {
+    margin-left: auto;
+}
